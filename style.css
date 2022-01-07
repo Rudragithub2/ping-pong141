@@ -1,0 +1,27 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: grey ;
+    width: 100%;
+    color: white;
+    text-align: center;
+    line-height: 3;
+}    
+.heading button{
+    float:right;
+    border: 1px solid white;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.modal-dialog{
+    width: 90%;
+}
+.Instruction_image{
+    width: 45%;
+    
+}
